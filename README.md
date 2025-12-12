@@ -30,3 +30,18 @@ The app displays multiple images like an album, and by clicking on the image (le
 ---
 
 ## 📂 Project Structure
+
+your_slider_project/
+├── slider.py
+├── images/
+│ ├── img1.jpg
+│ ├── img2.jpg
+│ ├── img3.jpg
+│ └── ...
+└── README.md
+
+---
+
+## ▶️ How to Run
+python slider.py
+
